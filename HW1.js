@@ -1,18 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-//  31. Если age_1 >=  age_2 и age_1 <  age_3, вывести в консоль “Welcome  !”
-//  32. Если age_1  > age_3, вывести в консоль “Keep calm and look Culture channel”.
-//  33. Иначе выводите “Technical work”.
-
-
 var item_1;
 item_1 = 5;
 console.log("item1 is " +item_1);
@@ -65,7 +51,7 @@ if (age_1 < age_2) {
 
 
 
-console.log()
+
 
 
 
